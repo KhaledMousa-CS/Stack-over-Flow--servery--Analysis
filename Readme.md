@@ -1,20 +1,9 @@
 # 📊 The 2025 Global Tech Ecosystem: A SAS Visual Analytics Deep Dive
+- [SAS Viya Report](https://vfl-061.engage.sas.com/SASVisualAnalytics/?reportUri=%2Freports%2Freports%2F4aeb382c-f735-45ac-b70b-c6f3c5b80f8b&sso_guest=true&sas-welcome=false) see the full report
 
 > **Course:** Business Intelligence | **Platform:** SAS Visual Analytics on SAS Viya 4  
 > **Institution:** University of Sadat City — Faculty of Computers and Artificial Intelligence  
 > **Department:** Information Systems
-
----
-
-## 👥 Project Team
-
-| Role | Name |
-|------|------|
-| **Team Member** | Khaled Mousa Ali |
-| **Team Member** | Ahmed Srour |
-| **Team Member** | Ebrahim Zaghlol |
-| **Supervisor** | Dr. Ahmed Lamey |
-| **Supervisor** | Eng. Aya Al-Malah |
 
 ---
 
@@ -110,22 +99,6 @@ The report is organized into **4 analytical parts** across **7 dashboard pages**
 
 ---
 
-## 📁 Project Files
-
-```
-📦 Project Root
-├── README.md                          ← This file
-├── The_State_of_the_Tech_Market_      ← Full project report (PDF)
-│   Stack_Overflow_Survey_Analysis.pdf
-├── Screenshots/
-│   ├── Page_1_Demographics.png        ← Geo map, age, EdLevel, remote work
-│   ├── Page_4_DevTools.png            ← Office stack, dev environments, comm platforms
-│   ├── Page_5_Frameworks.png          ← Web frameworks, SO tags, LearnCode
-│   ├── Page_6_AI_Tools.png            ← AI agents, tool usage, agent uses
-│   └── Page_7_AI_Sentiment.png        ← AgentUsesGeneral, AIThreat, AILearnHow
-```
-
----
 
 ## 🚀 How to Reproduce
 
