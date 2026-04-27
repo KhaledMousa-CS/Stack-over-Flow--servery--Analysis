@@ -1,4 +1,4 @@
-# 📊 The 2024 Global Tech Ecosystem: A SAS Visual Analytics Deep Dive
+# 📊 The 2025 Global Tech Ecosystem: A SAS Visual Analytics Deep Dive
 
 > **Course:** Business Intelligence | **Platform:** SAS Visual Analytics on SAS Viya 4  
 > **Institution:** University of Sadat City — Faculty of Computers and Artificial Intelligence  
